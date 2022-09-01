@@ -1,0 +1,5 @@
+com\example\feed\repository\FeedbackRepository.class
+com\example\feed\controller\feedbackController.class
+com\example\feed\FeedApplication.class
+com\example\feed\entities\Feedback.class
+com\example\feed\service\FeedbackService.class
